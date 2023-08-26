@@ -18,5 +18,29 @@
 <br>
 Nice Name/Gamer Name/Real Name  - Krishna
 
+# Creating a new Folder for Uses Only 
+# git init - used to create a new git repo
+# git remote add origin "link" -     connection  between Folder created and the remote
+# old - master new - main (branch)
+# git remote -v (Verify)
+# git branch (to check branch)
+#### Branch ####
+# Team works one for software update and other
+# get branch -M main (to rename branch)
+# git push -u Origin main (up stream [work for longer])
+
+#### WorkFLOW ####
+# Locak Git
+# Github repo -- clone -- changes -- add -- commit -- push (Generally)
+
+# Git Branches
+#                     Features 
+#               -----C3 --- C4 -- C5 --|
+#              |                       |    Merge or Non Merge is Possible (same the code in the branches)
+#  C1 -- C2 ----- C6 ----- C7----------| 
+#                    Master or main  
+#
+
+
 
 
