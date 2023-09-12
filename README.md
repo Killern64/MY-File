@@ -39,8 +39,8 @@ Nice Name/Gamer Name/Real Name  - Krishna
 #              |                       |    Merge or Non Merge is Possible (same the code in the branches)
 #  C1 -- C2 ----- C6 ----- C7----------| 
 #                    Master or main  
-# H
-
+# SomeThing Went Wrong
+# Nice
 
 
 
